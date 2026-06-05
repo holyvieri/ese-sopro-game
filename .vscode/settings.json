@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "lua": "lua"
+  },
+  "code-runner.runInTerminal": true
+}
